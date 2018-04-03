@@ -9,6 +9,7 @@ table tr td,th{
 }
 table tr th{
   color: magenta;
+  font-weight: bolder;
 }
 table tfoot tr th{
   color: black;
@@ -53,9 +54,6 @@ blockquote{
   background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg);
   background-size: contain;
   background-repeat: no-repeat;
-}
-#teamRoster > li:first-child > ul{
-  max-height: 50000px;
 }
 
 
